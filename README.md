@@ -1,75 +1,52 @@
- <h1 align="center">Hi 👋, I'm Sid</h1>
+ <h1 align="center">Hi 👋, I'm Sakshi Shinde</h1>
 
-  ### 🧑‍💻 Pre-final Year BTech @ PCCOE | Aspiring DevOps & Cloud Engineer
+ <h3 align="center">💻 Pre-Final Year BE CE @ MMIT | Java | DSA | Web Development</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 **Education:** Pre-final Year BTech IT at PCCOE (2027 Batch)
+🎓 **Education:** Pre-final Year BE CE @MMIT (2027 Batch)
 
-☁️ **Focus:** Designing and maintaining AWS Cloud Infrastructure and CI/CD Pipelines.
+☁️ **Focus:** Web Development
 
-🧠 **Expertise:** Spring Boot, MERN Stack, Jenkins Master-Worker Architecture
-
-🚀 **Currently Learning:** AWS, Docker, Kubernetes and DevOps
+🚀 **Interests:** Full Stack Development
 
 ---
 
-## ⚙️ Technical Ecosystem
+<h2>⚙️ Technical Ecosystem</h2>
+
+<h3>🚀 Backend & Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+</p>
+
+<h3>💻 Frontend & Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java" />
+</p>
+
+<h3>🛠️ Tools & IDEs</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github" />
+</p>
 
 
-### 🚀 Backend & Databases
+<h3>✨ Let's Connect</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
-### 💻 Frontend & Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🛠️ Tools & IDEs
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 📊 IPO Tracker Web Application
-A web-based dashboard for tracking upcoming, ongoing and listed IPOs.
-
-**Tech:** HTML, CSS, JavaScript
-
-### 💰 Expense Tracker
-A web application for tracking and managing expenses.
-
-**Tech:** Java, Spring Boot, MySQL
-
----
-
-## 📚 Currently Learning
-
-- ☕ Java & DSA
-- 🌐 Full Stack Web Development
-- ☁️ AWS Cloud
-- 🔄 CI/CD
-- 🐳 Docker
-- ☸️ Kubernetes
-
----
-
-## ✨ Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-
-📧 **Email:** YOUR_EMAIL
