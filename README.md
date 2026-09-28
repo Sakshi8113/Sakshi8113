@@ -1,6 +1,6 @@
-# Hi 👋, I'm Amar Chavan
+ <h1 align="center">Hi 👋, I'm Sid</h1>
 
-### 🧑‍💻 Pre-final Year BTech @ PCCOE | Aspiring DevOps & Cloud Engineer
+  ### 🧑‍💻 Pre-final Year BTech @ PCCOE | Aspiring DevOps & Cloud Engineer
 
 ---
 
@@ -18,9 +18,7 @@
 
 ## ⚙️ Technical Ecosystem
 
-### ☁️ Cloud & DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,github,terraform)](https://skillicons.dev)
 ### 🚀 Backend & Databases
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
